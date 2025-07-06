@@ -1,0 +1,780 @@
+brand,processor_brand,processor_name,ram_gb,ram_type,ssd,hdd,os,os_bit,graphic_card_gb,weight,warranty,touchscreen,price
+asus,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,34649
+lenovo,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,38999
+lenovo,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,39999
+asus,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,0,0,69990
+asus,intel,other,4,ddr4,0,512,windows,64-bit,4,casual,0,0,26990
+asus,intel,other,4,ddr4,0,512,windows,64-bit,4,casual,0,0,22990
+asus,intel,other,4,ddr4,0,512,windows,32-bit,4,casual,0,0,21990
+asus,intel,core i5,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,58799
+lenovo,intel,core i5,4,ddr4,0,1024,windows,32-bit,4,casual,0,0,49999
+other,amd,ryzen 5,4,ddr4,0,512,windows,32-bit,4,casual,0,0,59990
+other,amd,ryzen 5,4,ddr4,0,512,windows,32-bit,4,casual,0,0,93700
+other,amd,ryzen 5,4,ddr4,0,512,windows,32-bit,4,casual,0,0,72990
+other,intel,other,4,ddr4,0,512,windows,64-bit,4,casual,0,0,17490
+asus,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,0,0,35990
+hp,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,1,56490
+hp,intel,core i5,8,ddr4,256,0,windows,64-bit,8,casual,1,0,65390
+lenovo,intel,other,4,ddr4,256,0,windows,64-bit,4,thinnlight,0,0,31999
+hp,intel,other,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,32490
+lenovo,intel,other,4,ddr4,256,0,windows,64-bit,4,thinnlight,0,0,31799
+asus,intel,other,4,ddr4,256,0,windows,64-bit,4,casual,0,0,29890
+asus,intel,other,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,23990
+hp,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,32955
+hp,intel,core i5,4,ddr4,0,1024,windows,32-bit,4,casual,0,0,46200
+asus,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,0,0,34429
+lenovo,intel,core i3,8,ddr4,256,0,windows,32-bit,8,thinnlight,2,0,37990
+asus,intel,core i3,4,ddr4,256,0,windows,32-bit,4,casual,1,0,35990
+asus,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,33980
+hp,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,39990
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,39490
+hp,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,1,53990
+other,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,38990
+asus,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,37990
+asus,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,0,37890
+lenovo,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,38990
+lenovo,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,37990
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,41990
+asus,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,0,45990
+lenovo,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,39990
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,42490
+dell,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,36990
+lenovo,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,1,53990
+asus,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,36990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,2,0,38940
+dell,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,0,39490
+lenovo,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,2,0,39999
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,42990
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,1,49990
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,41490
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,41990
+lenovo,intel,core i3,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,41990
+asus,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,0,38490
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,38990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,0,44990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,0,0,36490
+lenovo,intel,core i3,8,ddr4,256,0,windows,32-bit,8,casual,0,0,38970
+hp,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,44900
+other,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,0,0,38990
+dell,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,0,0,44427
+asus,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,0,35990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,0,40200
+lenovo,intel,core i3,4,ddr4,256,0,windows,32-bit,4,casual,0,0,40990
+dell,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,42490
+other,intel,other,4,ddr4,0,512,windows,32-bit,4,casual,0,0,23990
+dell,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,0,1,71999
+asus,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,0,39990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,0,41998
+asus,intel,core i3,4,ddr4,256,0,windows,32-bit,4,casual,0,0,41990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,2,0,39999
+asus,intel,core i3,4,ddr4,256,0,windows,32-bit,4,casual,0,0,39990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,0,0,39998
+hp,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,42490
+lenovo,intel,core i3,4,ddr4,256,0,windows,32-bit,4,casual,0,0,41990
+asus,intel,core i3,4,ddr4,256,0,windows,32-bit,4,casual,0,0,48490
+hp,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,44376
+dell,intel,core i3,4,ddr4,256,0,windows,32-bit,4,casual,0,0,43900
+dell,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,0,46690
+dell,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,39990
+lenovo,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,0,0,43990
+asus,intel,core i3,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,36990
+dell,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,1,0,48500
+asus,intel,core i3,8,ddr4,256,0,windows,64-bit,8,casual,0,0,48990
+asus,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,23490
+hp,intel,core i3,4,ddr4,256,0,windows,64-bit,4,casual,1,1,54238
+asus,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,0,37990
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,42990
+asus,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,1,0,35990
+asus,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,0,42990
+asus,intel,core i3,8,other,512,0,windows,32-bit,8,casual,1,1,51990
+asus,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,0,48990
+lenovo,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,38990
+dell,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,45990
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,42490
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,43970
+asus,intel,core i3,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,39990
+other,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,48990
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,0,54990
+other,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,40990
+asus,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,41990
+lenovo,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,1,54990
+asus,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,0,44990
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,0,41250
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,44990
+dell,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,1,60790
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,0,0,45650
+dell,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,41990
+dell,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,45490
+asus,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,44990
+lenovo,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,2,0,42990
+hp,intel,core i3,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,45490
+hp,intel,core i3,4,ddr4,512,0,windows,32-bit,4,casual,0,0,38799
+hp,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,1,1,69267
+asus,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,1,0,51649
+hp,intel,core i3,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,47990
+asus,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,1,0,40990
+asus,intel,core i3,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,42990
+asus,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,1,0,44890
+asus,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,1,0,41490
+hp,intel,core i3,4,ddr4,512,0,windows,32-bit,4,thinnlight,1,0,50990
+hp,intel,core i3,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,48900
+dell,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,0,0,41790
+lenovo,intel,core i3,4,ddr4,512,0,windows,64-bit,4,casual,1,1,57999
+dell,intel,core i3,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,45930
+hp,intel,core i3,8,ddr4,512,0,windows,64-bit,8,casual,1,1,55490
+asus,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,32890
+lenovo,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,35990
+dell,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,thinnlight,0,0,42490
+dell,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,thinnlight,0,0,42190
+dell,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,39490
+hp,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,43690
+asus,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,35990
+dell,intel,core i3,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,43800
+lenovo,intel,core i3,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,38990
+asus,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,34990
+asus,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,38900
+dell,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,39990
+dell,intel,core i3,4,ddr4,0,1024,windows,32-bit,4,casual,0,0,40890
+lenovo,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,36990
+hp,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,39990
+hp,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,41990
+dell,intel,core i3,4,ddr4,0,1024,windows,32-bit,4,casual,0,0,43970
+hp,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,39790
+asus,intel,core i3,4,ddr4,0,1024,windows,32-bit,4,thinnlight,0,0,35590
+hp,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,36490
+asus,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,38990
+asus,intel,core i3,4,ddr4,0,1024,windows,32-bit,4,thinnlight,0,0,33990
+dell,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,43400
+asus,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,24990
+hp,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,40750
+dell,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,43000
+asus,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,38000
+dell,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,37990
+hp,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,casual,0,0,49279
+lenovo,intel,core i3,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,38999
+asus,intel,core i3,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,41500
+other,intel,core i3,4,ddr4,0,1024,windows,32-bit,4,casual,0,0,36999
+dell,intel,core i3,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,42900
+asus,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,21490
+dell,intel,core i3,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,41480
+asus,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,casual,0,0,32990
+asus,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,38680
+asus,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,23990
+dell,intel,core i3,8,ddr4,0,1024,windows,64-bit,8,thinnlight,0,0,40390
+asus,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,thinnlight,0,0,33990
+asus,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,20490
+dell,intel,core i3,8,ddr4,256,1024,windows,64-bit,8,thinnlight,1,0,41490
+dell,intel,core i3,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,45490
+dell,intel,core i3,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,44490
+asus,intel,core i3,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,41890
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,42990
+other,intel,core i3,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,40990
+dell,intel,core i3,8,ddr4,256,1024,windows,64-bit,8,thinnlight,1,0,48990
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,43590
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,casual,1,0,44690
+asus,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,casual,0,0,40990
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,43990
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,41390
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,44290
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,casual,1,0,48999
+dell,intel,core i3,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,39990
+dell,intel,core i3,8,ddr4,256,1024,windows,64-bit,8,thinnlight,0,0,46390
+asus,intel,other,4,other,0,512,windows,64-bit,4,casual,0,0,18990
+asus,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,17990
+hp,intel,other,4,ddr4,0,512,windows,64-bit,4,casual,0,0,26470
+hp,intel,other,4,ddr4,0,512,windows,64-bit,4,casual,0,0,27990
+lenovo,intel,other,4,ddr4,0,1024,windows,32-bit,4,casual,0,0,29999
+lenovo,intel,other,4,other,0,512,windows,64-bit,4,casual,0,0,25990
+lenovo,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,16990
+lenovo,intel,other,4,other,0,512,windows,32-bit,4,casual,0,0,24990
+other,intel,core i5,8,other,0,512,windows,32-bit,8,casual,0,0,50990
+other,intel,core i5,8,other,0,512,windows,32-bit,8,casual,1,0,119990
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,94190
+asus,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,106167
+dell,intel,core i5,8,other,0,512,other,32-bit,8,casual,1,0,68090
+dell,intel,core i5,8,other,0,512,other,32-bit,8,thinnlight,1,0,139990
+hp,intel,core i5,8,other,0,512,other,32-bit,8,thinnlight,0,0,55990
+hp,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,102551
+lenovo,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,46990
+hp,intel,core i5,8,ddr4,128,0,windows,64-bit,8,thinnlight,1,0,76012
+lenovo,intel,core i5,8,ddr4,256,0,windows,64-bit,8,casual,2,0,49490
+other,intel,core i5,8,other,256,0,windows,64-bit,8,thinnlight,1,0,86867
+asus,intel,core i5,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,48990
+dell,intel,core i5,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,55990
+other,intel,core i5,8,other,256,0,windows,64-bit,8,thinnlight,1,1,81998
+hp,intel,core i5,8,ddr4,256,0,windows,64-bit,8,casual,1,1,136590
+other,intel,core i5,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,59490
+asus,intel,core i5,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,49800
+lenovo,intel,core i5,8,ddr4,256,0,windows,64-bit,8,casual,1,0,61999
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,54990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,53990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,2,0,52990
+hp,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,1,0,67990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,57990
+lenovo,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,1,0,62300
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,52990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,2,0,51990
+lenovo,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,61990
+asus,intel,core i5,8,other,512,0,windows,32-bit,8,casual,1,1,63990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,65990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,52990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,49990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,71990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,47990
+lenovo,intel,core i5,8,ddr4,512,0,windows,32-bit,8,thinnlight,2,0,48490
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,72990
+other,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,2,0,76990
+asus,intel,core i5,16,ddr4,512,0,windows,64-bit,16,gaming,1,0,89990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,2,0,59990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,65990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,1,71990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,1,71890
+lenovo,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,64990
+asus,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,65990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,55999
+asus,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,73490
+hp,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,1,0,74490
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,58340
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,55999
+dell,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,67990
+asus,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,59990
+asus,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,82990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,64190
+dell,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,70090
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,49990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,55490
+hp,intel,core i5,8,other,512,0,windows,64-bit,8,casual,0,1,97990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,54990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,59990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,53990
+hp,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,1,0,66999
+other,intel,core i5,8,other,512,0,windows,64-bit,8,thinnlight,1,0,60990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,47990
+hp,intel,core i5,8,ddr4,512,0,windows,32-bit,8,thinnlight,1,0,59999
+dell,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,79990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,63990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,63990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,55990
+dell,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,69490
+dell,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,1,89390
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,thinnlight,0,0,74990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,3,1,64990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,66490
+dell,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,89702
+lenovo,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,70990
+asus,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,1,58990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,57500
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,79990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,56541
+asus,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,59990
+lenovo,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,64990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,61290
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,54990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,59990
+asus,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,1,0,84990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,72500
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,59990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,87990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,57990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,69490
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,3,1,68990
+lenovo,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,1,0,77990
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,1,105990
+other,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,0,79990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,55490
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,69990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,84990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,59990
+dell,intel,core i5,8,other,512,0,windows,64-bit,8,thinnlight,1,0,111890
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,65990
+asus,intel,core i5,8,other,512,0,windows,32-bit,8,casual,1,0,72990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,71090
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,2,0,74990
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,0,79990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,55490
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,66490
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,53400
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,74500
+dell,intel,core i5,8,other,512,0,windows,64-bit,8,thinnlight,1,0,114990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,61990
+other,intel,core i5,8,other,512,0,other,64-bit,8,casual,1,0,159990
+other,intel,core i5,8,other,512,0,other,64-bit,8,casual,1,0,172090
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,74990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,56490
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,3,0,147000
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,77990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,106490
+lenovo,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,1,0,70990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,64990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,57990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,64990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,54990
+hp,intel,core i5,8,other,512,0,windows,64-bit,8,casual,0,1,111999
+lenovo,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,0,70798
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,59990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,99500
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,55990
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,thinnlight,1,0,72990
+other,intel,core i5,8,other,512,0,windows,64-bit,8,thinnlight,1,0,64990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,57990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,76990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,2,0,62998
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,77990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,114990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,88990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,113590
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,1,73990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,61000
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,1,99990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,67990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,70799
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,65990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,53690
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,55990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,53190
+lenovo,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,2,0,58999
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,3,0,71990
+hp,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,0,0,82000
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,thinnlight,0,0,84990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,89998
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,69899
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,79990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,76300
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,55999
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,72900
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,73990
+dell,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,0,0,73519
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,126000
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,88990
+hp,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,1,114999
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,82990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,1,109999
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,1,82990
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,1,114990
+hp,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,1,129999
+other,intel,core i5,8,other,512,0,windows,32-bit,8,casual,0,0,149990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,71290
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,79500
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,82990
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,70980
+hp,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,0,0,94000
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,1,82990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,85990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,86990
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,1,0,105990
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,0,0,84990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,59999
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,91999
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,78900
+asus,intel,core i5,8,other,512,0,windows,64-bit,8,casual,0,0,132790
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,60990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,65556
+dell,intel,core i5,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,70190
+dell,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,79590
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,76990
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,44990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,86999
+hp,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,78000
+other,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,73063
+hp,intel,core i5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,100990
+lenovo,intel,core i5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,74990
+asus,intel,core i5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,75990
+lenovo,intel,core i5,8,ddr4,512,0,windows,32-bit,8,casual,1,0,84086
+asus,intel,core i5,8,ddr4,1024,0,windows,64-bit,8,gaming,0,0,75990
+asus,intel,core i5,8,ddr4,1024,0,windows,64-bit,8,gaming,1,0,77990
+asus,intel,core i5,8,ddr4,1024,0,windows,64-bit,8,casual,1,0,77990
+other,intel,core i5,16,other,1024,0,other,64-bit,16,casual,1,0,179990
+asus,intel,core i5,8,ddr4,1024,0,windows,64-bit,8,casual,0,0,82990
+asus,intel,core i5,8,ddr4,1024,0,windows,64-bit,8,casual,1,0,87990
+asus,intel,core i5,8,ddr4,1024,0,windows,64-bit,8,casual,0,0,84500
+dell,intel,core i5,8,other,1024,0,windows,64-bit,8,thinnlight,0,0,74190
+lenovo,intel,core i5,8,ddr4,1024,0,windows,64-bit,8,thinnlight,1,0,64990
+lenovo,intel,core i5,8,ddr4,512,512,windows,64-bit,8,thinnlight,3,1,155411
+lenovo,intel,core i5,8,ddr4,512,512,windows,64-bit,8,thinnlight,3,1,125394
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,0,0,49990
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,46990
+dell,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,48990
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,59999
+asus,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,46990
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,2,0,52990
+lenovo,intel,core i5,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,57999
+lenovo,intel,core i5,8,other,0,1024,windows,64-bit,8,casual,0,0,52490
+lenovo,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,56990
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,61990
+dell,intel,core i5,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,58090
+asus,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,0,0,56990
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,61597
+asus,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,thinnlight,0,0,81990
+asus,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,0,0,61249
+dell,intel,core i5,8,ddr4,0,1024,windows,32-bit,8,casual,0,0,58990
+asus,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,0,0,83990
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,291190
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,145990
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,179990
+hp,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,64990
+hp,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,46790
+hp,intel,core i5,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,44599
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,72964
+hp,intel,core i5,8,ddr4,0,1024,windows,32-bit,8,casual,1,0,48790
+other,intel,core i5,8,ddr4,0,1024,windows,64-bit,8,casual,1,0,56491
+asus,intel,core i5,8,ddr4,256,1024,windows,32-bit,8,casual,1,0,50990
+asus,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,gaming,0,0,55990
+other,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,57990
+asus,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,52990
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,57990
+other,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,thinnlight,1,0,56990
+other,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,55490
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,62490
+asus,intel,core i5,16,ddr4,256,1024,windows,64-bit,16,casual,1,0,64990
+lenovo,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,59990
+asus,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,60190
+asus,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,gaming,0,0,54490
+lenovo,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,60990
+dell,intel,core i5,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,55790
+asus,intel,core i5,16,ddr4,256,1024,windows,64-bit,16,thinnlight,0,0,58990
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,thinnlight,1,0,54990
+hp,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,gaming,1,0,71990
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,69900
+lenovo,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,65990
+asus,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,49990
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,thinnlight,1,0,58990
+lenovo,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,gaming,0,0,74590
+asus,intel,core i5,8,ddr4,256,1024,windows,32-bit,8,casual,0,0,58990
+asus,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,64990
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,66490
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,77900
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,67490
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,thinnlight,1,0,61990
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,58990
+lenovo,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,gaming,0,0,74999
+asus,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,68900
+dell,intel,core i5,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,71695
+other,intel,core i5,16,ddr4,256,1024,windows,64-bit,16,casual,0,0,62490
+dell,intel,core i5,8,ddr4,0,2048,windows,64-bit,8,casual,1,0,62317
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,207290
+dell,intel,core i7,16,ddr4,256,0,windows,64-bit,16,casual,1,0,87990
+other,intel,core i7,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,73990
+asus,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,57990
+asus,intel,core i7,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,61990
+other,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,2,0,79990
+lenovo,intel,core i7,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,68990
+lenovo,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,1,85990
+lenovo,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,99990
+asus,intel,core i7,8,ddr4,512,0,windows,64-bit,8,casual,1,0,77990
+lenovo,intel,core i7,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,79990
+hp,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,93190
+asus,intel,core i7,16,other,512,0,windows,64-bit,16,casual,1,0,94990
+lenovo,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,3,1,84990
+other,intel,core i7,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,57990
+hp,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,1,102990
+dell,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,99990
+asus,intel,core i7,16,ddr4,512,0,windows,64-bit,16,gaming,0,0,94990
+hp,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,1,104000
+other,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,0,0,76990
+hp,intel,core i7,16,ddr4,512,0,windows,64-bit,16,gaming,1,0,90190
+lenovo,intel,core i7,16,ddr4,512,0,windows,32-bit,16,casual,0,1,88488
+other,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,109990
+other,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,0,0,86990
+other,intel,core i7,16,other,512,0,windows,64-bit,16,casual,1,0,89990
+hp,intel,core i7,16,other,512,0,windows,64-bit,16,casual,1,1,239759
+asus,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,78990
+dell,intel,core i7,16,other,512,0,windows,64-bit,16,thinnlight,1,0,121890
+asus,intel,core i7,16,other,512,0,windows,64-bit,16,thinnlight,1,0,85990
+other,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,2,0,94990
+hp,intel,core i7,16,ddr4,512,0,windows,64-bit,16,gaming,1,0,92000
+hp,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,1,162990
+dell,intel,core i7,16,other,512,0,windows,64-bit,16,thinnlight,1,0,135300
+other,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,0,0,64990
+lenovo,intel,core i7,16,ddr4,512,0,windows,64-bit,16,thinnlight,3,0,174527
+lenovo,intel,core i7,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,162299
+dell,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,1,109190
+hp,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,1,99999
+other,intel,core i7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,104990
+asus,intel,core i7,16,other,512,0,windows,64-bit,16,thinnlight,0,1,109990
+asus,intel,core i7,16,other,512,0,windows,64-bit,16,thinnlight,1,0,99990
+lenovo,intel,core i7,16,ddr4,512,0,windows,64-bit,16,thinnlight,0,0,244801
+asus,intel,core i7,16,other,512,0,windows,64-bit,16,thinnlight,0,0,94990
+lenovo,intel,core i7,16,ddr4,512,0,windows,64-bit,16,thinnlight,1,0,86000
+lenovo,intel,core i7,16,ddr4,512,0,windows,32-bit,16,casual,0,0,162399
+hp,intel,core i7,16,ddr4,512,0,windows,32-bit,16,casual,0,0,119599
+lenovo,intel,core i7,16,other,512,0,windows,64-bit,16,thinnlight,0,0,211753
+lenovo,intel,core i7,16,ddr4,512,0,windows,32-bit,16,casual,0,0,110999
+asus,intel,core i7,8,other,512,0,windows,64-bit,8,thinnlight,1,0,81990
+other,intel,core i7,8,ddr4,512,0,windows,64-bit,8,casual,2,0,66990
+other,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,2,0,84990
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,1,104990
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,1,134990
+asus,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,gaming,0,0,98990
+hp,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,144690
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,thinnlight,0,0,99990
+other,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,2,0,119990
+asus,intel,core i7,16,ddr4,1024,0,windows,32-bit,16,casual,1,0,194990
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,0,124990
+dell,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,122410
+hp,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,1,179990
+other,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,2,1,154990
+lenovo,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,0,122990
+asus,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,1,224990
+other,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,0,0,279990
+hp,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,121990
+hp,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,116990
+lenovo,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,151098
+other,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,2,0,129990
+hp,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,1,149999
+other,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,139990
+other,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,129990
+hp,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,171990
+dell,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,93955
+asus,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,234990
+hp,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,1,128500
+lenovo,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,1,102990
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,1,119990
+asus,intel,core i7,16,ddr4,1024,0,windows,32-bit,16,casual,0,0,120980
+asus,intel,core i7,16,ddr4,1024,0,windows,32-bit,16,casual,1,0,157249
+lenovo,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,thinnlight,0,0,229900
+asus,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,131500
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,0,0,154990
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,0,0,165990
+lenovo,intel,core i7,16,other,1024,0,windows,64-bit,16,thinnlight,0,0,119990
+asus,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,0,0,167990
+hp,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,1,165000
+other,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,thinnlight,0,0,62990
+lenovo,intel,core i7,16,other,1024,0,windows,64-bit,16,casual,1,0,85990
+hp,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,94990
+hp,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,136990
+lenovo,intel,core i7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,234990
+other,intel,core i7,16,ddr4,2048,0,windows,64-bit,16,casual,1,0,159990
+asus,intel,core i7,16,other,2048,0,windows,64-bit,16,casual,0,0,233990
+asus,intel,core i7,16,ddr4,0,1024,windows,64-bit,16,casual,0,0,93990
+hp,intel,core i7,16,ddr4,128,1024,windows,64-bit,16,casual,1,0,116941
+other,intel,core i7,8,ddr4,256,1024,windows,64-bit,8,casual,2,0,63990
+asus,intel,core i7,16,ddr4,256,1024,windows,64-bit,16,gaming,0,0,66990
+asus,intel,core i7,16,ddr4,256,1024,windows,32-bit,16,thinnlight,0,0,82500
+other,intel,core i7,16,ddr4,256,1024,windows,64-bit,16,casual,1,0,119990
+other,intel,core i7,16,ddr4,256,1024,windows,64-bit,16,casual,3,0,159990
+asus,intel,core i7,16,ddr4,256,1024,windows,64-bit,16,thinnlight,0,0,98912
+other,intel,core i7,16,ddr4,512,1024,windows,64-bit,16,casual,1,0,92990
+other,intel,core i7,16,ddr4,512,1024,windows,32-bit,16,casual,1,0,119990
+other,intel,other,32,ddr4,1024,0,windows,64-bit,32,casual,1,0,169990
+other,intel,other,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,139990
+other,intel,other,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,192990
+asus,intel,other,16,other,1024,0,windows,64-bit,16,casual,0,0,299990
+asus,intel,other,16,ddr4,1024,0,windows,64-bit,16,casual,1,1,269990
+asus,intel,other,16,ddr4,1024,0,windows,64-bit,16,gaming,1,0,139990
+lenovo,intel,other,16,ddr4,1024,0,windows,32-bit,16,casual,0,0,265998
+asus,intel,other,16,ddr4,3072,0,windows,32-bit,16,casual,1,0,441990
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,86990
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,109990
+other,intel,core i5,8,other,0,512,other,32-bit,8,casual,0,0,109590
+asus,intel,core i7,16,other,0,512,other,32-bit,16,casual,0,0,146490
+other,m1,other,8,ddr4,256,0,other,64-bit,8,casual,1,0,85990
+other,m1,other,8,ddr4,256,0,other,64-bit,8,casual,1,0,112990
+other,m1,other,16,ddr4,256,0,other,64-bit,16,casual,1,0,104990
+other,m1,other,16,ddr4,256,0,other,64-bit,16,casual,1,0,132990
+other,m1,other,16,ddr4,512,0,other,64-bit,16,casual,1,0,149990
+other,m1,other,8,ddr4,512,0,other,64-bit,8,casual,1,0,125990
+other,m1,other,8,ddr4,512,0,other,64-bit,8,casual,1,0,103990
+other,m1,other,8,ddr4,512,0,other,64-bit,8,casual,1,0,101990
+other,m1,other,8,ddr4,512,0,other,64-bit,8,casual,1,0,104990
+other,m1,other,8,ddr4,512,0,other,64-bit,8,casual,1,0,131990
+other,m1,other,16,ddr4,512,0,other,64-bit,16,casual,1,0,128990
+other,m1,other,16,ddr4,512,0,other,64-bit,16,casual,1,0,184990
+other,m1,other,16,ddr4,512,0,other,64-bit,16,casual,1,0,225990
+other,m1,other,4,ddr4,512,0,other,64-bit,4,casual,1,0,124990
+other,m1,other,8,ddr4,1024,0,other,64-bit,8,casual,1,0,149990
+other,m1,other,16,ddr4,1024,0,other,64-bit,16,casual,1,0,169990
+other,m1,other,16,ddr4,1024,0,other,64-bit,16,casual,1,0,225990
+other,m1,other,16,ddr4,1024,0,other,64-bit,16,casual,1,0,243990
+other,m1,other,32,ddr4,1024,0,other,64-bit,32,casual,1,0,309990
+asus,intel,other,4,other,0,512,windows,64-bit,4,casual,0,0,45990
+asus,intel,other,4,ddr4,128,0,windows,32-bit,4,casual,0,1,58100
+asus,intel,other,8,other,256,0,windows,64-bit,8,casual,1,1,62990
+hp,intel,other,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,32990
+asus,intel,other,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,33990
+other,intel,other,4,ddr4,256,0,windows,64-bit,4,casual,1,0,30990
+dell,intel,other,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,36000
+asus,intel,other,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,32990
+dell,intel,other,4,ddr4,256,0,windows,64-bit,4,casual,1,0,35990
+asus,intel,other,4,other,0,1024,windows,64-bit,4,casual,0,0,27990
+asus,intel,other,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,25990
+asus,intel,other,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,30780
+hp,amd,ryzen 7,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,37990
+asus,amd,ryzen 7,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,35990
+dell,amd,ryzen 7,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,39490
+dell,amd,ryzen 7,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,36990
+dell,amd,ryzen 7,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,39990
+asus,amd,ryzen 7,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,33690
+dell,amd,ryzen 7,8,ddr4,256,0,windows,64-bit,8,thinnlight,0,0,40590
+asus,amd,ryzen 7,4,ddr4,256,0,windows,64-bit,4,casual,1,0,37990
+asus,amd,ryzen 7,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,34500
+other,amd,ryzen 7,8,ddr4,512,0,windows,64-bit,8,casual,1,0,36990
+hp,amd,ryzen 7,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,43490
+hp,amd,ryzen 7,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,41490
+other,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,0,0,34990
+hp,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,44490
+dell,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,thinnlight,0,0,40590
+dell,amd,ryzen 7,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,42090
+dell,amd,ryzen 7,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,35990
+hp,amd,ryzen 7,8,ddr4,0,1024,windows,64-bit,8,thinnlight,1,0,39490
+dell,amd,ryzen 7,8,ddr4,0,1024,windows,64-bit,8,thinnlight,0,0,37390
+dell,amd,ryzen 7,4,ddr4,0,1024,windows,64-bit,4,thinnlight,1,0,52632
+dell,amd,ryzen 7,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,39990
+dell,amd,ryzen 7,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,43990
+hp,amd,ryzen 7,4,ddr4,0,1024,windows,64-bit,4,casual,1,0,32917
+lenovo,amd,ryzen 7,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,34990
+dell,amd,ryzen 7,8,ddr4,0,1024,windows,64-bit,8,thinnlight,0,0,39990
+hp,amd,ryzen 7,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,41999
+dell,amd,ryzen 5,8,ddr4,256,0,windows,64-bit,8,casual,1,0,41990
+dell,amd,ryzen 5,8,ddr4,256,0,windows,64-bit,8,thinnlight,1,0,44490
+other,amd,ryzen 5,4,ddr4,256,0,windows,64-bit,4,casual,1,0,49990
+dell,amd,ryzen 5,4,ddr4,256,0,windows,64-bit,4,thinnlight,1,0,44390
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,57990
+lenovo,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,56990
+lenovo,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,48990
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,49970
+other,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,47990
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,48990
+other,amd,ryzen 5,8,other,512,0,windows,64-bit,8,thinnlight,1,0,53990
+lenovo,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,52990
+other,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,43990
+lenovo,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,gaming,0,0,59490
+other,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,64990
+dell,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,0,0,47490
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,59990
+lenovo,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,0,0,69990
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,58990
+dell,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,59490
+hp,amd,ryzen 5,16,ddr4,512,0,windows,64-bit,16,thinnlight,1,0,67500
+hp,amd,ryzen 5,8,ddr4,512,0,windows,32-bit,8,casual,0,0,48990
+asus,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,62450
+asus,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,58990
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,57999
+asus,amd,ryzen 5,16,ddr4,512,0,windows,64-bit,16,casual,0,0,56990
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,0,72990
+hp,amd,ryzen 5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,65990
+hp,amd,ryzen 5,16,ddr4,512,0,windows,64-bit,16,casual,1,1,98020
+hp,amd,ryzen 5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,63990
+asus,amd,ryzen 5,8,ddr4,512,0,windows,32-bit,8,thinnlight,1,0,49890
+dell,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,49990
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,casual,1,1,73999
+dell,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,60990
+dell,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,0,0,76190
+lenovo,amd,ryzen 5,4,other,512,0,windows,64-bit,4,thinnlight,3,1,74798
+asus,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,1,0,58990
+hp,amd,ryzen 5,4,ddr4,512,0,windows,32-bit,4,casual,0,0,68100
+lenovo,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,1,77990
+hp,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,55090
+asus,amd,ryzen 5,4,other,512,0,windows,64-bit,4,casual,0,1,91990
+hp,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,1,0,84208
+other,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,1,0,44990
+hp,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,53490
+lenovo,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,0,0,76498
+dell,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,1,0,98920
+other,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,0,0,54990
+other,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,1,0,49990
+hp,amd,ryzen 5,4,ddr4,512,0,windows,32-bit,4,casual,0,0,52380
+other,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,49990
+hp,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,52500
+asus,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,49990
+other,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,75999
+asus,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,1,0,80990
+lenovo,amd,ryzen 5,4,ddr4,512,0,windows,32-bit,4,casual,1,0,59900
+hp,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,54590
+dell,amd,ryzen 5,4,ddr4,512,0,windows,64-bit,4,casual,1,1,75500
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,thinnlight,1,0,51890
+asus,amd,ryzen 5,16,ddr4,512,0,windows,64-bit,16,casual,1,0,78000
+hp,amd,ryzen 5,16,ddr4,512,0,windows,64-bit,16,thinnlight,1,0,59999
+hp,amd,ryzen 5,8,ddr4,512,0,windows,64-bit,8,gaming,1,0,64990
+dell,amd,ryzen 5,4,ddr4,1024,0,windows,32-bit,4,casual,0,0,57900
+lenovo,amd,ryzen 5,4,other,1024,0,windows,64-bit,4,thinnlight,3,1,81978
+hp,amd,ryzen 5,4,ddr4,0,1024,windows,64-bit,4,gaming,1,0,59990
+dell,amd,ryzen 5,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,49490
+asus,amd,ryzen 5,8,ddr4,256,1024,windows,64-bit,8,casual,1,0,54990
+lenovo,amd,ryzen 5,8,ddr4,256,1024,windows,64-bit,8,casual,0,0,68500
+asus,amd,ryzen 5,8,ddr4,256,1024,windows,32-bit,8,casual,1,0,54990
+lenovo,amd,ryzen 5,8,ddr4,256,1024,windows,64-bit,8,gaming,1,0,63990
+hp,amd,ryzen 5,4,ddr4,256,1024,windows,64-bit,4,gaming,1,0,80000
+dell,amd,ryzen 5,4,ddr4,256,1024,windows,32-bit,4,casual,0,0,51990
+asus,amd,ryzen 5,4,ddr4,256,1024,windows,64-bit,4,casual,1,0,62990
+hp,amd,ryzen 5,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,52990
+asus,amd,ryzen 5,4,ddr4,256,1024,windows,64-bit,4,thinnlight,1,0,75100
+asus,amd,ryzen 7,16,ddr4,512,0,windows,32-bit,16,gaming,0,0,76990
+asus,amd,ryzen 7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,79990
+asus,amd,ryzen 7,8,ddr4,512,0,windows,64-bit,8,casual,0,0,71990
+lenovo,amd,ryzen 7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,99990
+dell,amd,ryzen 7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,93990
+asus,amd,ryzen 7,16,ddr4,512,0,windows,64-bit,16,gaming,0,0,82990
+asus,amd,ryzen 7,4,other,512,0,windows,64-bit,4,casual,0,0,106990
+asus,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,92990
+lenovo,intel,ryzen 7,4,ddr4,512,0,windows,32-bit,4,casual,3,0,81490
+asus,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,56990
+other,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,0,0,64990
+lenovo,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,60990
+lenovo,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,84988
+hp,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,90990
+asus,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,63990
+lenovo,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,63990
+hp,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,57999
+asus,amd,ryzen 7,4,ddr4,512,0,windows,32-bit,4,casual,0,0,72400
+lenovo,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,1,78990
+other,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,59990
+asus,amd,ryzen 7,4,other,512,0,windows,32-bit,4,casual,1,0,111990
+hp,amd,ryzen 7,4,ddr4,512,0,windows,32-bit,4,casual,0,1,109000
+dell,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,0,0,89990
+lenovo,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,3,1,78988
+lenovo,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,0,0,73138
+lenovo,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,0,106990
+asus,amd,ryzen 7,4,ddr4,512,0,windows,32-bit,4,casual,0,0,79990
+dell,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,casual,1,1,89570
+hp,amd,ryzen 7,4,ddr4,512,0,windows,64-bit,4,thinnlight,1,0,68500
+lenovo,amd,ryzen 7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,73400
+hp,amd,ryzen 7,16,ddr4,512,0,windows,64-bit,16,casual,1,0,79990
+hp,amd,ryzen 7,16,ddr4,512,0,windows,64-bit,16,gaming,1,0,84990
+other,amd,ryzen 7,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,99990
+asus,amd,ryzen 7,8,other,1024,0,windows,64-bit,8,casual,0,0,72990
+hp,amd,ryzen 7,16,ddr4,1024,0,windows,64-bit,16,thinnlight,1,1,92990
+hp,amd,ryzen 7,16,ddr4,1024,0,windows,64-bit,16,thinnlight,1,0,84190
+asus,amd,ryzen 7,16,other,1024,0,windows,64-bit,16,casual,0,1,112990
+asus,amd,ryzen 7,4,other,1024,0,windows,32-bit,4,casual,1,0,114990
+other,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,99990
+asus,amd,ryzen 7,4,ddr4,1024,0,windows,32-bit,4,gaming,0,0,95990
+hp,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,159990
+asus,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,76990
+lenovo,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,130990
+asus,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,99990
+asus,amd,ryzen 7,4,other,1024,0,windows,64-bit,4,casual,0,0,112990
+lenovo,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,77988
+asus,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,76000
+asus,amd,ryzen 7,4,other,1024,0,windows,64-bit,4,casual,1,1,99990
+asus,amd,ryzen 7,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,111000
+asus,amd,ryzen 7,16,other,1024,0,windows,64-bit,16,thinnlight,1,0,84970
+hp,amd,ryzen 7,16,ddr4,256,1024,windows,64-bit,16,gaming,1,0,75990
+other,amd,ryzen 7,16,ddr4,256,1024,windows,64-bit,16,casual,1,0,89990
+other,amd,ryzen 7,16,ddr4,256,1024,windows,64-bit,16,casual,0,0,81990
+lenovo,amd,ryzen 7,4,ddr4,512,1024,windows,32-bit,4,casual,0,0,80490
+asus,amd,other,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,135990
+asus,amd,other,16,ddr4,1024,0,windows,32-bit,16,casual,1,0,154990
+asus,amd,other,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,199990
+asus,amd,other,16,ddr4,1024,0,windows,64-bit,16,casual,0,0,114990
+asus,amd,other,16,ddr4,1024,0,windows,64-bit,16,casual,1,0,129990
+asus,amd,other,16,other,1024,0,windows,64-bit,16,casual,1,1,114990
+other,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,0,0,146990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,104990
+asus,amd,other,4,other,1024,0,windows,64-bit,4,casual,1,1,114990
+asus,amd,other,4,other,1024,0,windows,64-bit,4,casual,1,1,124990
+asus,amd,other,4,other,1024,0,windows,64-bit,4,casual,0,1,134990
+hp,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,141990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,129990
+asus,amd,other,4,other,1024,0,windows,64-bit,4,casual,1,1,142990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,121990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,0,0,141990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,162990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,130500
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,0,0,116990
+asus,amd,other,4,ddr4,1024,0,windows,32-bit,4,casual,0,0,138990
+asus,amd,other,4,other,1024,0,windows,64-bit,4,casual,1,1,234990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,135990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,144990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,149990
+asus,amd,other,4,ddr4,1024,0,windows,64-bit,4,casual,1,0,142990
+lenovo,amd,ryzen 5,8,ddr4,512,0,other,64-bit,8,thinnlight,0,0,57490
